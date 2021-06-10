@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="005_UserSpace">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src-users"/>
+        <wb-resource deploy-path="/" source-path="/WebContent-Users"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src-user-admin"/>
+        <wb-resource deploy-path="/" source-path="/WebContent-UsersAdmin"/>
+                
+        <property name="context-root" value="005_UserSpace"/>
+                
+        <property name="java-output-path" value="/005_UserSpace/build/classes"/>
+            
+    </wb-module>
+    
+</project-modules>
